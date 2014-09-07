@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.yandex-team.ru:viert/autocomplete-js"
+    "url": "git@github.com:viert/at-autocomplete"
   },
   "author": {
     "name": "Pavel Vorobyov",
